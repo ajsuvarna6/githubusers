@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/githubusers/static/css/main.c344d118.chunk.css",
+    "main.js": "/githubusers/static/js/main.e0219cb2.chunk.js",
+    "runtime-main.js": "/githubusers/static/js/runtime-main.636275e5.js",
+    "static/js/2.e45bf3d2.chunk.js": "/githubusers/static/js/2.e45bf3d2.chunk.js",
+    "static/js/3.f3851d6d.chunk.js": "/githubusers/static/js/3.f3851d6d.chunk.js",
+    "static/js/4.3de7b1d1.chunk.js": "/githubusers/static/js/4.3de7b1d1.chunk.js",
+    "static/js/5.b973b471.chunk.js": "/githubusers/static/js/5.b973b471.chunk.js",
+    "static/js/6.4a39d811.chunk.js": "/githubusers/static/js/6.4a39d811.chunk.js",
+    "index.html": "/githubusers/index.html",
+    "precache-manifest.a17d93eadefd458a0a37b31f857abc71.js": "/githubusers/precache-manifest.a17d93eadefd458a0a37b31f857abc71.js",
+    "service-worker.js": "/githubusers/service-worker.js",
+    "static/js/2.e45bf3d2.chunk.js.LICENSE": "/githubusers/static/js/2.e45bf3d2.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.636275e5.js",
+    "static/js/2.e45bf3d2.chunk.js",
+    "static/css/main.c344d118.chunk.css",
+    "static/js/main.e0219cb2.chunk.js"
+  ]
+}
